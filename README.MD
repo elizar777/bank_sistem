@@ -9,3 +9,4 @@ pip install aiogram==2.25.1
  и для запуска бота команда
 
  python main.py
+ 
